@@ -1,0 +1,9 @@
+h1{
+  
+  
+  
+}
+h2::after{
+  content :"";
+  width: auto;
+}
